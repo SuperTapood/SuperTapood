@@ -24,4 +24,4 @@ Will do "next":
 5. make flappy bird using c++ and opengl, just to say i did, and never develop games in opengl again
 6. make a video downloader with absolutely 0 knowledge of the topic
 7. program and visualize each and every sorting algorithm in both java and python for the lolz
-8. more fun and wholesome stuff that i will be able to do with no problems bc i'm totally great at what i do
+8. more fun and wholesome stuff that i will be able to do with no problems bc i'm totally great at what i do and i love it like 100% of the time
