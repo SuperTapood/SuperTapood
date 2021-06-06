@@ -21,7 +21,7 @@ Will do "next":
 2. use the numpy clone to replicate tensorflow bc i have a superiority complex and to feed my ever growing ego
 3. dwell yet again into the world of machine learning, trying to not make a fool of myself (but probably failing to do so)
 4. learn javascript, R, networking in python, and that hyper markup text thingy everybody is talking about ;)
-5. make flappy bird using c++ and opengl, just to say i did, and never develop games in opengl again
+5. make flappy bird using c++ and opengl, just to say i did, flex on god himself, and procceed never develop games in opengl again
 6. make a video downloader with absolutely 0 knowledge of the topic
-7. program and visualize each and every sorting algorithm in both java and python for the lolz
-8. more fun and wholesome stuff that i will be able to do with no problems bc i'm totally great at what i do and i love it like 100% of the time
+7. program and visualize each and every sorting algorithm in both java and python for the lolz and lmaoz
+8. more fun and wholesome stuff that i will be able to do with no problems bc i'm totally great at what i do and i love it like 100% of 30% the time
