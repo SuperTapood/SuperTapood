@@ -3,6 +3,7 @@
 I try to do a little bit of everything an end up doing nothing at all :)
 
 Currently working on games using Slick2D!
+
 Previously on - "SuperTapood's Officially Autographed and FDA Approved Development Arc":
 1. I failed to make a LWJGL based API bc i'm a big dum, and might revisit it i feel like suffering.
 2. I made discord bots that are pretty similar to myself. Such Potential, much little substance.
