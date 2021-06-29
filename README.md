@@ -24,4 +24,5 @@ Next on - "Goofman and the Slow, yet Pacey Descent Towards Madness and Insanity"
 7. I will program and visualize each and every sorting algorithm in both java and python (and maybe javascript too!) for the lolz and gigglz.
 8. I will combine my ungodly humor and hubot into one horrific unsavory creation to rule them all.
 9. I will birth a fnf bot to get those sick funks, and practice some tensorflow :D.
-10. and lots more fun and wholesome stuff that i will definitely be able to do with absolutely no problems bc i'm totally great at what i do and i love it like 100% of 15% the time.
+10. I will build numpy in java to comprehend true genuis
+and lots more fun and wholesome stuff that i will definitely be able to do with absolutely no problems bc i'm totally great at what i do and i love it like 100% of 15% the time.
