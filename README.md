@@ -2,7 +2,7 @@
 
 I try to do a little bit of everything an end up doing nothing at all :)
 
-Currently working on games using Slick2D!
+Currently working on games using Slick2D and making a fnf chadbot to funk every friday night.
 
 Previously on - "SuperTapood's Officially Autographed and FDA Approved Development Arc":
 1. I failed to make a LWJGL based API bc i'm a big dum, and might revisit it i feel like suffering.
