@@ -2,7 +2,7 @@
 
 I try to do a little bit of everything an end up doing nothing at all :)
 
-Currently working on games using Slick2D and making a fnf chadbot to funk every friday night.
+Currently working on games using LWJGL.
 
 Previously on - "SuperTapood's Officially Autographed and FDA Approved Development Arc":
 1. I failed to make a LWJGL based API bc i'm a big dum, and might revisit it i feel like suffering.
@@ -10,12 +10,13 @@ Previously on - "SuperTapood's Officially Autographed and FDA Approved Developme
 3. I forced the A* algorithm and a Maze Generator to duke it out in a battle to the death. A* won.
 4. I wrote a (very bad) pygame based game engine in python, then archived it so it may never see the light of day again.
 5. I solved minesweeper with a big brain time, ∞ IQ algorithm.
-6. I made Flappy Bird way, way, way longer than any human being with intelligence above room temperature (in celsius) should have, given my vast know-how.
+6. I made Flappy Bird way, way, way longer than any human being with intelligence above room temperature should have, given my vast know-how.
 7. I made a zoom spam bot back when it just required some simple web scraping. There is no pun here, just the sad reality of my approaching obsoleting.
+8. I tried and failed to make a game using Slick2D, because it was taking longer to run than i do.
 
 
 Next on - "Goofman and the Slow, yet Pacey Descent Into Madness":
-1. I will write a numpy clone using CUDA, for the sweet sweet succulent juicy parallel computing, and to T pose on NVidia for ever conceiving Numba.
+1. I will write a numpy clone using CUDA, for the sweet sweet succulent juicy parallel computing, and to T pose on Nvidia for ever conceiving Numba.
 2. I will use the numpy clone to replicate tensorflow bc i have a superiority complex and a need to feed my ever growing ego.
 3. I will dwell yet again into the world of machine learning, trying to not make a fool of myself a second time (and failing to do so).
 4. I will learn javascript, R, networking in python, and that hyper text markup thingy 5 everybody is talking about ;)
