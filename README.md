@@ -1,10 +1,20 @@
-# Hey There! It's Me! Ya Boy! SuperTapood!
+# Hey There! It's Me! Ye Boi! SuperTapood!
 [![wakatime](https://wakatime.com/badge/user/8b4f0bdc-5133-4fba-98d4-d75498fa71f2.svg)](https://wakatime.com/@8b4f0bdc-5133-4fba-98d4-d75498fa71f2)<br><br>
-I try to do a little bit of everything an end up doing nothing at all :)
+I try to do a little bit of everything an end up doing nothing at all :) 🤯 🌚
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif" width="700"/>
+</div>
+<br>
+Currently sassing about cpp.
+<br>
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/1Be4g2yeiJ1QfqaKvz/giphy.gif" width="600" height="300"/>
+</div>
+<br>
 
-Currently working on games using LWJGL.
 
-Previously on - "SuperTapood's Officially Autographed and FDA Approved Development Arc":
+###  🤦 Previously on - "SuperTapood's Officially Autographed and FDA Approved Development Arc":
 1. I failed to make a LWJGL based API bc i'm a big dum, and might revisit it i feel like suffering.
 2. I made discord bots that are pretty similar to myself. Such Potential, much little substance.
 3. I forced the A* algorithm and a Maze Generator to duke it out in a battle to the death. A* won.
@@ -14,8 +24,12 @@ Previously on - "SuperTapood's Officially Autographed and FDA Approved Developme
 7. I made a zoom spam bot back when it just required some simple web scraping. There is no pun here, just the sad reality of my approaching obsoleting.
 8. I tried and failed to make a game using Slick2D, because it was taking longer to run than i do.
 
+<div align="center">
+  <img src="https://beebom.com/wp-content/uploads/2020/01/Hide-the-Pain-Harold-is-Imgur%E2%80%99s-Meme-of-the-Decade.jpg?w=3000&quality=75" width="311" height="212"/>
+</div>
 
-Next on - "Goofman and the Slow, yet Pacey Descent Into Madness":
+
+###  Next on - "Goofman and the Slow, yet Pacey Descent Into Madness":
 1. I will write a numpy clone using CUDA, for the sweet sweet succulent juicy parallel computing, and to T pose on Nvidia for ever conceiving Numba.
 2. I will use the numpy clone to replicate tensorflow bc i have a superiority complex and a need to feed my ever growing ego.
 3. I will dwell yet again into the world of machine learning, trying to not make a fool of myself a second time (and failing to do so).
@@ -26,5 +40,37 @@ Next on - "Goofman and the Slow, yet Pacey Descent Into Madness":
 8. I will combine my ungodly humor and hubot into one horrific unsavory creation to rule them all.
 9. I will birth a fnf bot to get those sick funks, and practice some tensorflow :D.
 
+### ~nightmares~ fun languages i had the ~misery~ pleasure of working with:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="I HAVE NEVER HATED A LANGAUGE MORE IN MY LIFE" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="i used to think it sucked, and then i started with c++" alt="C#" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="9/10 not enough objects oriented in my programming" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="little bobby tables would be proud" alt="OURsql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="from jokes import pun as funny" alt="Python" width="40" height="40"/>
+</div>
+
+### perferred methods of torture:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="10/10 compiling and running in java sucks" alt="IntelliJ" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg" title="enviorment switching in this bad boy is hella fun and hella fine" alt="Pycharm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="intellisense is my bestie please port it to c++" alt="VisualStudio" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="i have never met this man before in my life" alt="VSCode" width="40" height="40"/>
+</div>
+
+<br>
+<br>
+
+### My 🤮 Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=supertapood&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supertapood)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="80">
+  <br>
+  Airing exclusivly on Github
+</div>
+<br>
 
 and lots more fun and wholesome stuff that i will definitely be able to do with absolutely no problems bc i'm totally great at what i do and i love it like 100% of 15% the time.
