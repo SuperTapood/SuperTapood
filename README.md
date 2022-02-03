@@ -1,5 +1,5 @@
 # Hey There! It's Me! Ya Boy! SuperTapood!
-
+[![wakatime](https://wakatime.com/badge/user/8b4f0bdc-5133-4fba-98d4-d75498fa71f2.svg)](https://wakatime.com/@8b4f0bdc-5133-4fba-98d4-d75498fa71f2)
 I try to do a little bit of everything an end up doing nothing at all :)
 
 Currently working on games using LWJGL.
