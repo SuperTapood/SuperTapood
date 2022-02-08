@@ -1,5 +1,6 @@
 # Hey There! It's Me! Ye Boi! SuperTapood!
 [![wakatime](https://wakatime.com/badge/user/8b4f0bdc-5133-4fba-98d4-d75498fa71f2.svg)](https://wakatime.com/@8b4f0bdc-5133-4fba-98d4-d75498fa71f2)<br><br>
+[![supertapood's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=supertapood)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 I try to do a little bit of everything an end up doing nothing at all :) 🤯 🌚
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif" width="700"/>
@@ -72,5 +73,3 @@ Currently sassing about cpp.
   Airing exclusivly on Github
 </div>
 <br>
-
-and lots more fun and wholesome stuff that i will definitely be able to do with absolutely no problems bc i'm totally great at what i do and i love it like 100% of 15% the time.
