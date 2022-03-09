@@ -1,4 +1,10 @@
 # Hey There! It's Me! Ye Boi! SuperTapood!
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="80">
+  <br>
+  Airing exclusivly on Github
+</div>
+<br>
 [![wakatime](https://wakatime.com/badge/user/8b4f0bdc-5133-4fba-98d4-d75498fa71f2.svg)](https://wakatime.com/@8b4f0bdc-5133-4fba-98d4-d75498fa71f2)<br><br>
 [![supertapood's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=supertapood)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 I try to do a little bit of everything an end up doing nothing at all :) 🤯 🌚
@@ -57,19 +63,3 @@ Currently sassing about cpp.
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="intellisense is my bestie please port it to c++" alt="VisualStudio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="i have never met this man before in my life" alt="VSCode" width="40" height="40"/>
 </div>
-
-<br>
-<br>
-
-### My 🤮 Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=supertapood&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supertapood)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="80">
-  <br>
-  Airing exclusivly on Github
-</div>
-<br>
