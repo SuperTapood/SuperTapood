@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="80">
   <br>
-  Airing exclusivly on Github
+  Airing exclusively on Github
 </div>
 <br>
 
