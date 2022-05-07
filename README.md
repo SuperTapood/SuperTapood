@@ -3,7 +3,6 @@
   <img src="https://github.com/SuperTapood/SuperTapood/blob/8ff1321d6081aeb07536fe7f71e51016da559b96/178-1787508_github-icon-download-at-icons8-white-github-icon-removebg-preview.png" width="180">
   <br>
   Airing exclusively on Github
-</div>
 <br>
 
 [![wakatime](https://wakatime.com/badge/user/8b4f0bdc-5133-4fba-98d4-d75498fa71f2.svg)](https://wakatime.com/@8b4f0bdc-5133-4fba-98d4-d75498fa71f2)<br><br>
@@ -20,6 +19,7 @@ Currently sassing about cpp.
   <img src="https://media.giphy.com/media/1Be4g2yeiJ1QfqaKvz/giphy.gif" width="600" height="300"/>
 </div>
 <br>
+  </div>
 
 
 ###  🤦 Previously on - "SuperTapood's Officially Autographed and FDA Approved Development Arc":
@@ -51,6 +51,7 @@ Currently sassing about cpp.
 ### ~nightmares~ fun languages i had the ~misery~ pleasure of working with:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="I HAVE NEVER HATED A LANGAUGE MORE IN MY LIFE" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/kriegalex/vscode-cuda/master/images/cudaIcon.png" title="calling device kernels fucking sucks" alt="Cuda" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="i used to think it sucked, and then i started with c++" alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="9/10 not enough objects oriented in my programming" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="little bobby tables would be proud" alt="OURsql" width="40" height="40"/>
