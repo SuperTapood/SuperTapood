@@ -1,6 +1,6 @@
 # Hey There! It's Me! Ye Boi! SuperTapood!
 <div align="center">
-  <img src="https://github.com/SuperTapood/SuperTapood/blob/8ff1321d6081aeb07536fe7f71e51016da559b96/178-1787508_github-icon-download-at-icons8-white-github-icon-removebg-preview.png" width="180">
+  <img src="https://github.com/SuperTapood/SuperTapood/blob/89e0e0dd3eb83f5843849b61bef76137df4e5752/github-icon-colored.png" width="180">
   <br>
   Airing exclusively on Github
 <br>
