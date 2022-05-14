@@ -12,7 +12,7 @@ I try to do a little bit of everything an end up doing nothing at all :) ğŸ¤¯ ğŸ
   <img src="https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif" width="700"/>
 </div>
 <br>
-Currently sassing about cpp.
+Currently sassing about CUDA C++.
 <br>
 <br>
 <div align="center">
